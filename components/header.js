@@ -93,7 +93,7 @@ function ResponsiveAppBar() {
                 textDecoration: 'none',
               }}
             >
-              Reward tool
+              Winner's Circle
             </Typography>
           </Link>
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>

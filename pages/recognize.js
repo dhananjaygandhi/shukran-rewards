@@ -227,7 +227,7 @@ export default function Dashboard(props) {
         <Grid item xs={12} sm={6}>
           <Stack spacing={2}>
             <br />
-            <h3>Donate Shukran points</h3>
+            <h3>Transfer Shukran points</h3>
             {donatestatus === 'success' &&
             <Alert severity="success">
               <AlertTitle>Success</AlertTitle>
